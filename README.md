@@ -1,2 +1,1 @@
-# fangru-lin.github.io
-github page
+Fangru Lin's personal webpage.
