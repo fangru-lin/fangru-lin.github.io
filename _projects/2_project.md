@@ -2,7 +2,7 @@
 layout: page
 title: Object Extraction out of Serial Verb Constructions in Lianyungang Dialect and Mandarin Chinese
 description: Syntax option paper
-time: 2022
+time: May 2023
 supervisor: Supervised by Dr Diego Krivochen
 img:
 importance: 2
