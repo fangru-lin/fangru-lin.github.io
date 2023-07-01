@@ -15,12 +15,12 @@ nav_order: 5
 <em>Software Engineer Intern</em>
 <p>I worked as a summer intern in software engineering for Microsoft, where I implemented a feature for Azure Storage service at C+AI.</p>
 <br/><br/>
-<h3><strong>Biendata</strong></h3>
+<!-- <h3><strong>Biendata&Tsinghua University</strong></h3>
 <em>Dec. 2019 - Mar. 2020</em><br>
 <em>NLP Paper Dataset Annotation Intern</em>
 <p>I worked as an intern to read NLP top conference papers and annotate the datasets used in them.</p>
 <br/><br/>
-<h3><strong>Biendata</strong></h3>
+<h3><strong>Biendata&Chinese Academy of Science, </strong></h3>
 <em>Nov. - Dec. 2019</em><br>
 <em>Data Analysis Intern</em>
 <p>I participated in the open-sources AI for question-answering systems project by annotating the questions datasets for model training.</p>
@@ -29,7 +29,7 @@ nav_order: 5
 <em>Dec. 2019 - Oct. 2020</em><br>
 <em>Corpus Construction Intern</em>
 <p>I built a Chinese-Korean parallel corpus in politics domain by proofreading and editing Chinese-Korean parallel texts. I also built a terminology database using the parallel corpus.</p>
-<br/><br/>
+<br/><br/> -->
 
 <h1><strong>Teaching</strong></h1>
 
