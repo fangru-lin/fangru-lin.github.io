@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 # description: My publications in preparation
-years: [In preparation]
+years: [Under review]
 nav: true
 nav_order: 4
 ---
