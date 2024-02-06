@@ -12,7 +12,7 @@ nav_order: 4
 
 <h4 class="year">2024</h4>
   <h2>Graph-enhanced Large Language Models in Asynchronous Plan Reasoning</h2>
-  <p>Very exciting project in which we collaborated with fantastic researchers! Check out the paper here: <a href="../assets/pdf/Graph_enhanced_Large_Language_Models_in_Asynchronous_Plan_Reasoning.pdf" target="_blank">Graph-enhanced Large Language Models in Asynchronous Plan Reasoning</a>.</p>
+  <p>Very exciting project in which we collaborated with fantastic researchers! Check out the paper here: <a href="https://arxiv.org/abs/2402.02805" target="_blank">Graph-enhanced Large Language Models in Asynchronous Plan Reasoning</a>.</p>
 
   <img src="../assets/img/graph-llm.png" style="width: 60%;" alt="alternatetext">
 
