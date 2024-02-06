@@ -25,4 +25,8 @@ I'm reading for a DPhil degree at University of Oxford with a research focus on 
 
 For most recent publications, please visit <a href="https://scholar.google.com/citations?hl=en&user=LFS5dV0AAAAJ&view_op=list_works&gmla=AH70aAUk-YR0U8wbiYzthyQPh586N3BiLX81qUI5qSFmTfPfQR1Q7iqAQc0jF2n-jXZtXnUvlCJDYi7wLJE5Tjgf" target="_blank"> my Google scholar page</a>.
 
-My non-academic interests are in music and sports! I have level-10 (highest level) piano player certificate. I have also been in many sing comps including Voice of China, and Chinese sing comp (唱响津城) at University of Oxford (will be in more sing comps hopefully!) For sports, I do Pilates very often. I also enjoy outdoor activities such as skiing.
+I co-organize OxNLP, a hybrid weekly reading group sharing sota NLP works at University of Oxford. See more information and feel free to join our mailing list <a href="https://eng.ox.ac.uk/oxnlp/" target="_blank">here</a>.
+
+My non-academic interests are in music and sports! I have level-10 (highest level) piano player certificate. I have also been in many sing comps including Voice of China, and Chinese sing comp (唱响津城) at University of Oxford (will be in more sing comps hopefully!) For sports, I often play golf and do Pilates. I sometimes ski.
+
+See my other profile pages in <a href= "https://eng.ox.ac.uk/people/fangru-lin/" target="_blank">Oxford e-Research Centre</a> and <a href= "https://www.ling-phil.ox.ac.uk/people/fangru-lin" target="_blank">Faculty of Linguistics, Philology, and Phonetics</a>.
