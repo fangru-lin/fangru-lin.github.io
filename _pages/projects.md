@@ -2,10 +2,10 @@
 layout: page
 title: Past Projects
 permalink: /projects/
-description: My academic projects are mainly about <mark>Natural Language Processing</mark>, <mark>Linguistics</mark> (Syntax, Semantics, and Corpus Linguistics), and <mark>Social Science</mark> (Sociolinguistics)
+description: My main past projects are here.
 nav: true
 nav_order: 2
-display_categories: [Natural Language Processing, Linguistics, Social Science]
+display_categories: [Natural Language Processing, Linguistics]
 horizontal: false
 ---
 

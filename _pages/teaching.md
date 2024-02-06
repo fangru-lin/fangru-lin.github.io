@@ -1,8 +1,6 @@
 ---
 layout: page
 permalink: /teaching/
-title: Internships
-description: I have done internships in software engineering, corpus construction, and data analytics.
 nav: true
 nav_order: 5
 ---
