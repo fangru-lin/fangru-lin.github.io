@@ -11,5 +11,5 @@ nav_order: 5
 <h3><strong>Microsoft</strong></h3>
 <em>Jul. - Oct. 2022</em><br>
 <em>Software Engineer Intern</em>
-<p>I worked as a summer intern in software engineering for Microsoft, where I implemented a feature for Azure Storage service at C+AI.</p>
+<p>I worked as a summer intern in software engineering for Microsoft, where I implemented a feature for Azure in Cloud+AI team.</p>
 <br/><br/>
