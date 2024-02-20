@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Assessing transformer models with scalar adjective expressions
+title: Probing Large Language Models for Scalar Adjective Lexical Semantics and Scalar Diversity Pragmatics
 description: Master thesis
 supervisor: Supervised by Prof Janet Pierrehumbert & Prof Daniel Altshuler
-time: Main thesis finished. Under modification for publication.
+time: Accepted to COLING-2024
 img: 
 importance: 1
 category: Natural Language Processing
