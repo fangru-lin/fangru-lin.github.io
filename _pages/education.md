@@ -26,6 +26,7 @@ nav_order: 1
 
 <h2>Selected Awards</h2>
 
+<p>· Cohere for AI research grant (Cohere, 2024)</p>
 <p>· Clarendon Scholarship (University of Oxford, 2023)</p>
 <p>· Jason Hu Scholarship (University of Oxford, 2023)</p>
 <p>· First-prize Honors Scholarship for New Graduates (SISU, 2021, highest honor for new graduates)</p>

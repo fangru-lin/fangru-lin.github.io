@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 # description: My publications in preparation
-years: [Under review]
+years: 2024
 nav: true
 nav_order: 4
 ---
@@ -11,12 +11,12 @@ nav_order: 4
 <div class="News">
 
 <h4 class="year">2024</h4>
-  <h2>Graph-enhanced Large Language Models in Asynchronous Plan Reasoning</h2>
+  <h2>[ICML 2024] Graph-enhanced Large Language Models in Asynchronous Plan Reasoning</h2>
   <p>Very exciting project in which we collaborated with fantastic researchers! Check out the paper here: <a href="https://arxiv.org/abs/2402.02805" target="_blank">Graph-enhanced Large Language Models in Asynchronous Plan Reasoning</a>.</p>
 
   <img src="../assets/img/graph-llm.png" style="width: 60%;" alt="alternatetext">
 
-  <p>TL;DR: Off-the-shelf graph prompting consistently improves LLM performance.</p>
+  <p>TL;DR: Off-the-shelf graph prompting consistently improves LLM performance in asynchronous planning.</p>
 
   <p>1. We automatically generate and open-source a high-quality dataset for asynchronous planning which requires both sequential and parallel efficient sheduling. </p>
 
