@@ -5,7 +5,7 @@ title: Service
 nav: true
 nav_order: 5
 ---
-<h1><strong>Internships</strong></h1>
+<!-- <h1><strong>Internships</strong></h1> -->
 
 ---
 <h3><strong>Microsoft Research</strong></h3>
