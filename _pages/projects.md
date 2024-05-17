@@ -5,7 +5,7 @@ permalink: /projects/
 description: My main past projects are here.
 nav: true
 nav_order: 2
-display_categories: [Natural Language Processing, Linguistics]
+display_categories: [Discourse representation, Pragmatics]
 horizontal: false
 ---
 

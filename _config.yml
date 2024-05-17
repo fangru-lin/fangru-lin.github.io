@@ -8,7 +8,7 @@ middle_name:
 last_name: Lin
 email: fangru.lin@balliol.ox.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi, I'm Fangru! I'm currently a second-year MPhil Linguistics student at University of Oxford.
+  Hi, I'm Fangru! I'm currently a first-year DPhil Linguistics student at University of Oxford.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank"></a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
