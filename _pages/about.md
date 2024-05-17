@@ -20,8 +20,8 @@ Hi! I am Fangru and welcome to my page!
 I'm reading for a DPhil degree at University of Oxford with a research focus on NLP. I have been and will be working on linguistically informed LLMs. I am supervised by Prof Janet Pierrehumbert and Prof Daniel Altshuler. My academic interests mainly lie in:
 
 · Rule induction and compositionality for LLMs<br> 
-· Developing better models to understand complex linguistic meanings and reasoning paths for decision making and language understanding<br> 
-· Enabling better out-of-domain generalisation in downstream tasks, higher explainability, and more data-efficient training mechanism
+· Developing better models to understand complex linguistic meanings and reasoning paths for decision making and language understanding<br>
+· Very interested in neuro-symbolic methods and formal theories!
 
 For most recent publications, please visit <a href="https://scholar.google.com/citations?hl=en&user=LFS5dV0AAAAJ&view_op=list_works&gmla=AH70aAUk-YR0U8wbiYzthyQPh586N3BiLX81qUI5qSFmTfPfQR1Q7iqAQc0jF2n-jXZtXnUvlCJDYi7wLJE5Tjgf" target="_blank"> my Google scholar page</a>.
 
