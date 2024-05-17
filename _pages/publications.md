@@ -27,8 +27,8 @@ nav_order: 4
   <p>4. Despite the performance boost, we still find that LLMs tend to suffer from severe degradataion with increasing task complexities, which highlights the limitations of using LLMs to simulate digital devices.</p>
 
 <h4 class="year">2024</h4>
-  <h2>[LREC-COLING 2024] Probing Large Language Models for Scalar Adjective Lexical Semantics and Scalar Diversity Pragmatics</h2>
-  <p>A short version of my master thesis! </a>.</p>
+  <h2>[LREC-COLING 2024] <a href="https://arxiv.org/pdf/2404.03301" target="_blank">Probing Large Language Models for Scalar Adjective Lexical Semantics and Scalar Diversity Pragmatics</a></h2>
+  <p>A short version of my master thesis!.</p>
 
   <img src="../assets/img/diversity.png" style="width: 60%;" alt="alternatetext">
 
