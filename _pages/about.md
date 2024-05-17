@@ -17,9 +17,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi! I am Fangru and welcome to my page! 
 
-I'm reading for a DPhil degree at University of Oxford with a research focus on NLP. I'm working on linguistically informed LLMs, mainly on semantic/pragmatic implications on NLP technologies. I am supervised by Prof Janet Pierrehumbert and Prof Daniel Altshuler. My academic interests mainly lie in:
+I'm reading for a DPhil degree at University of Oxford with a research focus on NLP. I'm working on linguistically informed LLMs, mainly on semantic/pragmatic implications on NLP technologies. I also want to know how human cognitive models can help us understand/develop LLMs. 
 
-· Rule induction and compositionality for LLMs<br> 
+I am supervised by Prof Janet Pierrehumbert and Prof Daniel Altshuler. My academic interests mainly lie in:
+
 · Developing better models to understand complex linguistic meanings and reasoning paths for decision making and language understanding<br>
 · Very interested in neuro-symbolic methods and formal theories!
 
