@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi! I am Fangru and welcome to my page! 
 
-I'm reading for a DPhil degree at University of Oxford with a research focus on NLP. I'm working on linguistically informed LLMs, mainly on semantic/pragmatic implications on NLP technologies. I also want to know how human cognitive models can help us understand/develop LLMs. 
+I'm reading for a DPhil degree at University of Oxford with a research focus on NLP. I'm also affiliated with the Alan Turing Institute as an enrichment student. I'm working on linguistically informed LLMs, mainly on semantic/pragmatic implications on NLP technologies. I also want to know how human cognitive models can help us understand/develop LLMs. 
 
 I am supervised by Prof Janet Pierrehumbert and Prof Daniel Altshuler. My academic interests mainly lie in:
 
@@ -30,4 +30,4 @@ I co-organize OxNLP, a hybrid weekly reading group sharing sota NLP works at Uni
 
 My non-academic interests are in music and sports! I have level-10 (highest level) piano player certificate. I have also been in many sing comps including Voice of China, and Chinese sing comp (唱响津城) at University of Oxford (will be in more sing comps hopefully!) For sports, I often play golf and do Pilates. I sometimes ski.
 
-See my other profile pages in <a href= "https://eng.ox.ac.uk/people/fangru-lin/" target="_blank">Oxford e-Research Centre</a> and <a href= "https://www.ling-phil.ox.ac.uk/people/fangru-lin" target="_blank">Faculty of Linguistics, Philology, and Phonetics</a>.
+See my other profile pages in <a href="https://www.turing.ac.uk/people/doctoral-students/fangru-lin" target="_blank">Alan Turing Institute</a>, <a href= "https://eng.ox.ac.uk/people/fangru-lin/" target="_blank">Oxford e-Research Centre</a> and <a href= "https://www.ling-phil.ox.ac.uk/people/fangru-lin" target="_blank">Faculty of Linguistics, Philology, and Phonetics</a>.
