@@ -11,6 +11,26 @@ nav_order: 4
 <div class="News">
 
 <h4 class="year">2024</h4>
+  <h2><a href="https://arxiv.org/pdf/2410.11005" target="_blank">One Language, Many Gaps: Evaluating Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks</a></h2>
+  <p>My internship project with MSR!</p>
+
+  <img src="../assets/img/graph-llm.png" style="width: 60%;" alt="alternatetext">
+
+  <p>TL;DR: LLMs exhibit significant unfairness and brittleness to reasoning prompts expressed in dialects.</p>
+
+  <p>1. Focusing on African American Vernacular English (AAVE), we present the first study on LLMs’ fairness and robustness to a dialect in canonical reasoning tasks (algorithm, math, logic, and comprehensive reasoning). </p>
+  
+  <p>2. We hire AAVE speakers, including experts with computer science backgrounds, to rewrite seven popular benchmarks, such as HumanEval and GSM8K. The result of this effort is ReDial, a dialectal benchmark comprising 1.2K+ parallel query pairs in Standardized English and AAVE. </p>
+
+  <p>3. We use ReDial to evaluate state-of-the-art LLMs, including GPT4o/4/3.5-turbo, LLaMA-3.1/3, Mistral, and Phi-3. We find that, compared to Standardized English, almost all of these widely used models show significant brittleness and unfairness to queries in AAVE.</p> 
+  
+  <p>4. Furthermore, AAVE queries can degrade performance more substantially than misspelled texts in Standardized English, even when LLMs are more familiar with the AAVE queries.</p> 
+  
+  <p>5. Finally, asking models to rephrase questions in Standardized English does not close the performance gap but generally introduces higher costs.</p> 
+  
+  <p>6. Overall, our findings indicate that LLMs provide unfair service to dialect users in complex reasoning tasks.</p>
+
+<h4 class="year">2024</h4>
   <h2>[ICML 2024] <a href="https://arxiv.org/abs/2402.02805" target="_blank">Graph-enhanced Large Language Models in Asynchronous Plan Reasoning</a></h2>
   <p>My first project in DPhil! Very excited to have collaborated with fantastic researchers!</p>
 
