@@ -17,16 +17,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi! I am Fangru and welcome to my page! 
 
-I'm reading for a DPhil degree at University of Oxford with a research focus on NLP. I'm also affiliated with the Alan Turing Institute as an enrichment student. I'm working on linguistically informed LLMs, mainly on semantic/pragmatic implications on NLP technologies. I also want to know how human cognitive models can help us understand/develop LLMs. 
-
-I am supervised by Prof Janet Pierrehumbert and Prof Daniel Altshuler. My academic interests mainly lie in:
-
-· Developing better models to understand complex linguistic meanings and reasoning paths for decision making and language understanding<br>
-· Very interested in neuro-symbolic methods and formal theories!
+I'm reading for a DPhil degree at University of Oxford with a research focus on NLP. I'm also affiliated with the Alan Turing Institute as an enrichment student. I'm supervised by Prof Janet Pierrehumbert and Prof Daniel Altshuler. My academic interests are mainly in understanding and improving LLMs in reasoning and planning, by robust derivation and application of logical relations.
 
 For most recent publications, please visit <a href="https://scholar.google.com/citations?hl=en&user=LFS5dV0AAAAJ&view_op=list_works&gmla=AH70aAUk-YR0U8wbiYzthyQPh586N3BiLX81qUI5qSFmTfPfQR1Q7iqAQc0jF2n-jXZtXnUvlCJDYi7wLJE5Tjgf" target="_blank"> my Google scholar page</a>.
-
-I co-organize OxNLP, a hybrid weekly reading group sharing sota NLP works at University of Oxford. See more information and feel free to join our mailing list <a href="https://eng.ox.ac.uk/oxnlp/" target="_blank">here</a>.
 
 My non-academic interests are in music and sports! I have level-10 (highest level) piano player certificate. I have also been in many sing comps including Voice of China, and Chinese sing comp (唱响津城) at University of Oxford (will be in more sing comps hopefully!) For sports, I often play golf and do Pilates. I sometimes ski.
 
