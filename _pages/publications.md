@@ -10,8 +10,8 @@ nav_order: 4
 <!-- _pages/publications.md -->
 <div class="News">
 
-<h4 class="year">2024</h4>
-  <h2><a href="https://arxiv.org/pdf/2410.11005" target="_blank">One Language, Many Gaps: Evaluating Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks</a></h2>
+<h4 class="year">2025</h4>
+  <h2>[ACL 2025 main] <a href="https://arxiv.org/pdf/2410.11005" target="_blank">One Language, Many Gaps: Evaluating Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks</a></h2>
   <p>My internship project with MSR!</p>
 
   <!-- <img src="../assets/img/graph-llm.png" style="width: 60%;" alt="alternatetext"> -->
