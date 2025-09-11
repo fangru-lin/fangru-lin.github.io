@@ -8,6 +8,12 @@ nav_order: 5
 <!-- <h1><strong>Internships</strong></h1> -->
 
 ---
+<h3><strong>Google DeepMind (Mountain View)</strong></h3>
+<em>Sept. 2025 - Present</em><br>
+<em>Research Intern</em>
+<p>I work in Gemini Deep Research team.</p>
+<br/><br/>
+
 <h3><strong>Alan Turing Institute</strong></h3>
 <em>Oct. 2024 - Present</em><br>
 <em>Enrichment Student</em>
@@ -16,7 +22,7 @@ nav_order: 5
 
 <h3><strong>Microsoft Research</strong></h3>
 <em>Apr. 2024 - Oct. 2024</em><br>
-<em>Student Researcher</em>
+<em>Research Intern</em>
 <p>I researched LLMs with MSR.</p>
 <br/><br/>
 
