@@ -9,7 +9,7 @@ nav_order: 5
 
 ---
 <h3><strong>Google DeepMind (Mountain View)</strong></h3>
-<em>Sept. 2025 - Present</em><br>
+<em>Sept. 2025 - Dec. 2025</em><br>
 <em>Research Intern</em>
 <p>I work in Gemini Deep Research team.</p>
 <br/><br/>
