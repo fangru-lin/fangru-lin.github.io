@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-🚀🚀🚀 I'm on the job market for full-time Research Scientist/Engineer positions in Large Language Model planning and reasoning! Please reach out to me if you are interested in my research!
+🚀🚀🚀 I'm on the job market for full-time Research Scientist/Engineer positions in Large Language Models! Please reach out to me if you are interested in my research!
 
 Hi! I am Fangru and welcome to my page! 
 
