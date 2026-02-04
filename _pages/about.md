@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I am Fangru and welcome to my page! 
 
-I'm reading for a DPhil degree at University of Oxford with a research focus on Large Language Model planning and reasoning. I'm supervised by Prof Janet Pierrehumbert and Prof Daniel Altshuler. My academic interests are mainly in understanding and improving LLMs in reasoning and planning, by robust derivation and application of logical relations. Industry-wise, I worked as a research intern at Gemini Deep Research team (Google DeepMind, Mountain View), and Microsoft Research. I also worked as a software engineer intern at Microsoft Azure Cloud+AI team.
+I'm reading for a DPhil degree at University of Oxford with a research focus on Large Language Model planning and reasoning. I'm supervised by Prof Janet Pierrehumbert and Prof Daniel Altshuler. My academic interests are mainly in understanding and improving LLMs in reasoning and planning, by robust derivation and application of logical relations. Industry-wise, I worked as a research intern at <a href="https://gemini.google/overview/deep-research/" target="_blank"> Gemini Deep Research</a> team (Google DeepMind, Mountain View), and Microsoft Research. I also worked as a software engineer intern at Microsoft Azure Cloud+AI team.
 
 For most recent publications, please visit <a href="https://scholar.google.com/citations?hl=en&user=LFS5dV0AAAAJ&view_op=list_works&gmla=AH70aAUk-YR0U8wbiYzthyQPh586N3BiLX81qUI5qSFmTfPfQR1Q7iqAQc0jF2n-jXZtXnUvlCJDYi7wLJE5Tjgf" target="_blank"> my Google scholar page</a>.
 
