@@ -10,6 +10,15 @@ nav_order: 4
 <!-- _pages/publications.md -->
 <div class="News">
 
+<h4 class="year">2026</h4>
+  <h2>[arXiv] <a href="https://www.arxiv.org/abs/2602.03542" target="_blank">Can Large Language Models Generalize Procedures Across Representations?</a></h2>
+  <p>My new paper on arXiv!</p>
+  <img src="../assets/img/illustration_analogy.jpg" style="width: 60%;" alt="alternatetext">
+
+  <p>TL;DR: LLMs do not naively generalize procedures across representations, but successful generalization has analogical patterns.</p>
+
+  <p>Large language models (LLMs) are trained and tested extensively on symbolic representations such as code and graphs, yet real-world user tasks are often specified in natural language. To what extent can LLMs generalize across these representations? Here, we approach this question by studying isomorphic tasks involving procedures represented in code, graphs, and natural language (e.g., scheduling steps in planning). We find that training LLMs with popular post-training methods on graphs or code data alone does not reliably generalize to corresponding natural language tasks, while training solely on natural language can lead to inefficient performance gains. To address this gap, we propose a two-stage data curriculum that first trains on symbolic, then natural language data. The curriculum substantially improves model performance across model families and tasks. Remarkably, a 1.5B Qwen model trained by our method can closely match zero-shot GPT-4o in naturalistic planning. Finally, our analysis suggests that successful cross-representation generalization can be interpreted as a form of generative analogy, which our curriculum effectively encourages.</p>
+
 <h4 class="year">2025</h4>
   <h2>[ACL 2025 main] <a href="https://arxiv.org/pdf/2410.11005" target="_blank">One Language, Many Gaps: Evaluating Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks</a></h2>
   <p>My internship project with MSR!</p>
