@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Service/
-title: Service
+permalink: /Experience/
+title: Experience
 nav: true
 nav_order: 5
 ---
