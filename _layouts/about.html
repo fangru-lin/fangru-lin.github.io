@@ -12,6 +12,12 @@ layout: default
         </header>
 
         <article>
+          {% if page.job_market -%}
+          <div class="job-market-note alert alert-primary" role="note">
+            {{ page.job_market }}
+          </div>
+          {%- endif %}
+
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}

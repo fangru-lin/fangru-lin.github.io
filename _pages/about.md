@@ -3,6 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: DPhil student at University of Oxford
+job_market: >
+  <strong>🚀🚀🚀 I'm on the job market</strong> for full-time Research Scientist/Engineer or related positions in Large Language Models! Please reach out to me if you are interested in my research!
 
 profile:
   align: right
@@ -15,10 +17,6 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-<div class="job-market-note alert alert-primary" role="note">
-<strong>🚀🚀🚀 I'm on the job market</strong> for full-time Research Scientist/Engineer or related positions in Large Language Models! Please reach out to me if you are interested in my research!
-</div>
 
 Hi! I am Fangru and welcome to my page! 
 
