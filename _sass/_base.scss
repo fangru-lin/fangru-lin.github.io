@@ -112,6 +112,18 @@ blockquote {
   margin-right: 1rem;
 }
 
+.job-market-note {
+  margin: 0 0 1.5rem;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid rgba($purple-color, 0.25);
+  border-left: 4px solid var(--global-theme-color);
+  border-radius: 6px;
+  background: rgba($purple-color, 0.06);
+  color: var(--global-text-color);
+  font-weight: 600;
+  line-height: 1.55;
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;

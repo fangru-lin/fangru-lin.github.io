@@ -16,7 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<div class="job-market-note">
 🚀🚀🚀 I'm on the job market for full-time Research Scientist/Engineer or related positions in Large Language Models! Please reach out to me if you are interested in my research!
+</div>
 
 Hi! I am Fangru and welcome to my page! 
 
