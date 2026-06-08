@@ -113,6 +113,7 @@ blockquote {
 }
 
 .job-market-note {
+  display: flow-root;
   margin: 0 0 1.75rem;
   padding: 1rem 1.15rem;
   border: 1px solid rgba($purple-color, 0.4);

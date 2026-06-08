@@ -11,8 +11,8 @@ nav_order: 4
 <div class="News">
 
 <h4 class="year">2026</h4>
-  <h2>[arXiv] <a href="https://www.arxiv.org/abs/2602.03542" target="_blank">Can Large Language Models Generalize Procedures Across Representations?</a></h2>
-  <p>My new paper on arXiv!</p>
+  <h2>[ICML 2026] <a href="https://www.arxiv.org/abs/2602.03542" target="_blank">Can Large Language Models Generalize Procedures Across Representations?</a></h2>
+  <p>My new paper accepted at ICML 2026!</p>
   <img src="../assets/img/illustration_analogy.jpg" style="width: 60%;" alt="alternatetext">
 
   <p>TL;DR: LLMs do not naively generalize procedures across representations, but successful generalization has analogical patterns.</p>
